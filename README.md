@@ -1,4 +1,4 @@
-# 🔒 SecureText
+# 🔒 WHISPER
 
 A privacy-focused, end-to-end encrypted SMS/MMS application for Android that puts security and user experience first.
 
