@@ -62,7 +62,7 @@ Found a security issue? Please report it confidentially to [security@securetext.
 
 ## 🌈 Vision
 
-SecureText aims to make secure communication accessible to everyone. We believe privacy is a fundamental right, not a premium feature. Our goal is to create an SMS/MMS application that protects your messages while being a joy to use.
+WHISPER aims to make secure communication accessible to everyone. We believe privacy is a fundamental right, not a premium feature! Our goal is to create an SMS/MMS application that protects your messages while being a joy to use.
 
 ---
 
