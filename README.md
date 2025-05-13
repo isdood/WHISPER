@@ -54,7 +54,7 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting you
 
 ## 📝 License
 
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+[GNU] - see the LICENSE file for details.
 
 ## 🔐 Security
 
