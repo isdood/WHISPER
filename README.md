@@ -58,7 +58,7 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting you
 
 ## 🔐 Security
 
-Found a security issue? Please report it confidentially to [security@securetext.example.com](mailto:security@securetext.example.com).
+Found a security issue? Please report it confidentially to calebjdt@gmail.com & STARWEAVE & I will be sure to patch any vulnerabilities ASAP!
 
 ## 🌈 Vision
 
